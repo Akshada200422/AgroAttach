@@ -1,12 +1,55 @@
-# React + Vite
+AgroAttach is a dynamic marketplace designed to simplify the buying and selling of second-hand agricultural products and equipment. Built for farmers, agri-entrepreneurs, and rural innovators, it offers a trusted space to exchange tools, machinery, and farm essentials at affordable prices. Whether you're upgrading your gear, clearing out unused inventory, or searching for budget-friendly solutions, AgroAttach connects you with a community that values sustainability and smart farming.
+With intuitive listings, secure communication, and region-specific filters, AgroAttach makes agri-trade seamless, transparent, and efficient. It’s more than a platform—it’s a movement toward circular agriculture and economic empowerment.
+[User Registration]
+        ↓
+[Login to Dashboard]
+        ↓
+[View Product Categories]
+        ↓
+ ┌────────────────────────────────────────────┐
+ │ Categories:                                │
+ │ - HARVESTING                               │
+ │ - TILLAGE_EQUIPMENT                        │
+ │ - PLANTING                                 │
+ │ - IRRIGATION                               │
+ └────────────────────────────────────────────┘
+        ↓
+[Select a Category]
+        ↓
+[View Equipment Types]
+        ↓
+[Select Specific Equipment]
+        ↓
+[View Product Details]
+ ┌────────────────────────────────────────────┐
+ │ - Price                                    │
+ │ - Company                                  │
+ │ - Condition                                │
+ │ - Contact Info                             │
+ │ - Appointment Option (Email Notification)  │
+ │ - Multilingual Support (Marathi Available) │
+ └────────────────────────────────────────────┘
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ For Selling
+ 
+  [Login for Selling]
+        ↓
+[Access "Sell Product" Section]
+        ↓
+[Upload Machinery Images]
+        ↓
+[Enter Product Details]
+ ┌───────────────────────────────┐
+ │ - Equipment Type              │
+ │ - Price                       │
+ │ - Condition                   │
+ │ - Brand/Company               │
+ │ - Ordering & Delivery Info    │
+ │ - Contact Details             │
+ └───────────────────────────────┘
+        ↓
+[Submit Listing]
+        ↓
+[Receive Buyer Appointments (Email Alerts)]
+        ↓
+[Manage Orders & Communication]

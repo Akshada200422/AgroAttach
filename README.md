@@ -53,3 +53,8 @@ With intuitive listings, secure communication, and region-specific filters, Agro
 [Receive Buyer Appointments (Email Alerts)]
         ↓
 [Manage Orders & Communication]
+
+Tech Stack:
+Front-end: React
+Back-end: Node.js
+Database: MongoDB
